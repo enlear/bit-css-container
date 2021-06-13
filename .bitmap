@@ -3,19 +3,19 @@
 {
     "page/container": {
         "scope": "enlear.css-container",
-        "version": "0.0.1",
+        "version": "0.0.2",
         "mainFile": "index.ts",
         "rootDir": "css-container/page/container"
     },
     "ui/button": {
         "scope": "enlear.css-container",
-        "version": "0.0.1",
+        "version": "0.0.2",
         "mainFile": "index.ts",
         "rootDir": "css-container/ui/button"
     },
     "ui/card": {
         "scope": "enlear.css-container",
-        "version": "0.0.1",
+        "version": "0.0.2",
         "mainFile": "index.ts",
         "rootDir": "css-container/ui/card"
     },
